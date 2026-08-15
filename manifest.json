@@ -1,0 +1,10 @@
+{
+  "name": "example",
+  "description": "Starter profile. Copy this repo, rename it, edit the manifest.",
+  "plugins": {
+    "superpowers@claude-plugins-official": true
+  },
+  "mcp": [],
+  "env": {},
+  "notes": "Nothing here is required. Delete every key you do not want; name and description are the only two the engine reads unconditionally."
+}
